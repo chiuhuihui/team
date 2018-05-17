@@ -1,0 +1,9 @@
+C:\Users\Leo\Desktop\Form\randomgroup\randomgroup\bin\Debug\randomgroup.exe.config
+C:\Users\Leo\Desktop\Form\randomgroup\randomgroup\bin\Debug\randomgroup.exe
+C:\Users\Leo\Desktop\Form\randomgroup\randomgroup\bin\Debug\randomgroup.pdb
+C:\Users\Leo\Desktop\Form\randomgroup\randomgroup\obj\Debug\randomgroup.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Form\randomgroup\randomgroup\obj\Debug\randomgroup.exe
+C:\Users\Leo\Desktop\Form\randomgroup\randomgroup\obj\Debug\randomgroup.pdb
+C:\Users\w401\Desktop\randomgroup\randomgroup\bin\Debug\randomgroup.exe.config
+C:\Users\w401\Desktop\randomgroup\randomgroup\obj\Debug\randomgroup.exe
+C:\Users\w401\Desktop\randomgroup\randomgroup\obj\Debug\randomgroup.pdb
